@@ -15,14 +15,14 @@
   4. Determine the experimental settings and push "Start" button.
 
 ## Copyright
-> The Copyright of the SFA/MFDE belongs to the Nakata Lab from Yokohama National University, Japan. You are free to use this code for research purposes. Please refer the following article: _"Yuma Horaguchi, Masaya Nakata, High-Dimensional Expensive Multiobjective Optimization Using a Surrogate-Assisted Multifactorial Evolutionary Algorithm, The Genetic and Evolutionary Computation Conference (GECCO), ACM, July 2025, Accepted"._
+> The Copyright of the SFA/MFDE belongs to the Nakata Lab from Yokohama National University, Japan. You are free to use this code for research purposes. Please refer the following article: _"Yuma Horaguchi, Masaya Nakata, High-Dimensional Expensive Multiobjective Optimization Using a Surrogate-Assisted Multifactorial Evolutionary Algorithm, The Genetic and Evolutionary Computation Conference (GECCO), ACM, July 2025, 572-580"._
 
 ```
 @inproceedings{horaguchi2025high,
   title={{High-Dimensional Expensive Multiobjective Optimization Using a Surrogate-Assisted Multifactorial Evolutionary Algorithm}},
   author={Horaguchi, Yuma and Nakata, Masaya},
   booktitle={The Genetic and Evolutionary Computation Conference (GECCO)},
-  pages={Accepted},
+  pages={572--580},
   month={July},
   year={2025},
   publisher={ACM}
