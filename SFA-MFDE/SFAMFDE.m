@@ -12,7 +12,7 @@ classdef SFAMFDE < ALGORITHM
 % Y. Horaguchi, M. Nakata, High-Dimensional Expensive Multiobjective
 % Optimization Using a Surrogate-Assisted Multifactorial Evolutionary
 % Algorithm, Proceedings of the Genetic and Evolutionary Computation
-% Conference, 2025, Accepted.
+% Conference, 2025, 572-580.
 %------------------------------- Copyright --------------------------------
 % Copyright (c) 2025 BIMK Group. You are free to use the PlatEMO for
 % research purposes. All publications which use this platform or any code
