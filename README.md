@@ -25,7 +25,7 @@
   pages={572--580},
   month={July},
   year={2025},
-  publisher={ACM}
+  publisher={ACM},
   doi={10.1145/3712256.3726483}
 }
 ```
